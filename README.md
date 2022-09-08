@@ -7,7 +7,7 @@ simple greeting contract form ( https://www.youtube.com/watch?v=bNXJNeaYl8Q )
 
 ## some brief notes
 
-Smart contract
+## Smart contract
 It is code as law. The code executes the terms of a contract and cannot be altered.
 - immutable, runs on the blockchain (decentralized distributed computing system) state changes take place only when the majority agrees
 - highly secure
