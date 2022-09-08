@@ -1,6 +1,6 @@
 # My introduction to solidity smart contracts
 
-simple greeting contract
+simple greeting contract form ( https://www.youtube.com/watch?v=bNXJNeaYl8Q )
 
 ## set up workspace with solidity and truffle
 
